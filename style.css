@@ -81,7 +81,7 @@ p {
 
 @media (min-width: 768px) {
     .profile {
-        margin: 100px auto;
+        margin: 200px auto;
         width: 350px;
         padding: 40px;
     }
